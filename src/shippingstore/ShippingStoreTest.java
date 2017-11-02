@@ -1,6 +1,7 @@
 package shippingstore;
 
-import static org.junit.*;
+import static org.junit.jupiter.api.Assertions.*;
+
 class ShippingStoreTest {
 
 }
